@@ -4,6 +4,9 @@
   <div class="card-body">
     <h5 class="card-title">{{subSetvicesDataa.subServiceName}}</h5>
     <p class="card-text">{{subSetvicesDataa.subServiceDescription}}</p>
-    <a  class="btn btn-primary">Go to Details</a>
+    <a class="btn btn-primary" routerLink="/Subscribtion">Go to Details</a>
+
+    <button class="btn btn-primary" (click)="saveToLocalStorage()">Save ID</button>
+
   </div>
 </div>

@@ -21,4 +21,13 @@ import { Observable } from 'rxjs';
   getSubServiceDetails(id: number): Observable<any> {
     return this.http.get<any>(`${this.staticData}/SubService/getSubServiceDetails/${id}`);
   }
+
+  getSubscriotionData(): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Subscribtion`)
+  }
+
+
+  postSubscriotionData(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Subscribtion/addSubscriptionUser`, data)
+  }
 }

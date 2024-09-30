@@ -19,7 +19,7 @@ export class Services29Component {
   getServices() {
     this._ser.getServices().subscribe((data) => {
       this.servicesArray = data;
-      console.log("Fetched services data:", this.servicesArray); // Log to verify structure
+      console.log("Fetched services data:", this.servicesArray); 
     });
   }
 }

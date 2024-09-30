@@ -36,7 +36,7 @@ namespace AngularTest.Server.Controllers
         [HttpGet("getSubServiceDetails/{id}")]
         public IActionResult Detials(int id) {
 
-            var subServices = _db.SubServices.Where(x => x.ServiceId == id).FirstOrDefault();
+            var subServices = _db.SubServices.Where(x => x.Id == id).FirstOrDefault();
 
             return Ok(subServices);
         }

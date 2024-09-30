@@ -23,8 +23,8 @@ export class SubServicesComponent {
   }
 
   getSubServiceDetails(id: any) {
-    this._ser.getSubServiceByServiceId(id).subscribe((data: any) => { // Expecting an array here
-      this.subSetvicesData = data; // Assigning the array to the variable
+    this._ser.getSubServiceByServiceId(id).subscribe((data: any) => { 
+      this.subSetvicesData = data; 
       console.log("Fetched sub services data:", this.subSetvicesData);
     }, (error) => {
       console.error("Error fetching sub services:", error);

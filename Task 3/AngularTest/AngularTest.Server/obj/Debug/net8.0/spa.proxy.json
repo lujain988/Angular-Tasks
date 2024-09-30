@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\AngularTest\\AngularTest.Server\\..\\angulartest.client",
+"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\..\\angulartest.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
