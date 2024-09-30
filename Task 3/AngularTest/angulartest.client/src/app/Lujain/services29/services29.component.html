@@ -1,0 +1,9 @@
+<p>services29 works!</p>
+<div *ngFor="let item of servicesArray" class="card" style="width: 18rem;">
+  <img class="card-img-top" src="{{item.serviceImage}}" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{item.serviceName}}</h5>
+    <p class="card-text">{{item.serviceDescription}}</p>
+    <a [routerLink]="['/Details', item.id]" class="btn btn-primary">Go to Details</a>
+  </div>
+</div>

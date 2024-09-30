@@ -1,0 +1,10 @@
+<p>subservices29 works!</p>
+
+<div *ngFor="let item of subSetvicesData" class="card" style="width: 18rem;">
+  <img class="card-img-top" src="{{item.subServiceImage}}" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{item.subServiceName}}</h5>
+    <p class="card-text">{{item.subServiceDescription}}</p>
+    <a [routerLink]="['/Details/SubDetails', item.serviceId]" class="btn btn-primary">Go to Details</a>
+  </div>
+</div>
