@@ -1,0 +1,11 @@
+<p>Subscription works!</p>
+<p>Number of subscriptions: {{ sub.length }}</p>
+
+<div *ngFor="let item of sub" class="card" style="width: 18rem;">
+  <img class="card-img-top" src="" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{item.subscriptionName}}</h5>
+    <p class="card-text">{{item.subscriptionDescription}}</p>
+    <a href="#" class="btn btn-primary" (click)="addSub(item.id)">Subscribe</a>
+  </div>
+</div>

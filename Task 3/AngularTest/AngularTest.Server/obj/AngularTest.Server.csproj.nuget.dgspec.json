@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj": {
+    "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj",
         "projectName": "AngularTest.Server",
-        "projectPath": "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\AngularTest.Server.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\source\\repos\\AngularTest\\AngularTest.Server\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,6 +13,8 @@ import { Services29Component } from "./Lujain/services29/services29.component";
 import { SubServicesComponent } from "./Lujain/services29/sub-services/sub-services.component";
 import { FormsModule, NgForm } from '@angular/forms';
 import { SubscribtionComponent } from "./Lujain/services29/subscribtion/subscribtion.component";
+import { RegestrationUserComponent } from "./Lujain/regestration-user/regestration-user.component";
+import { LoginUserComponent } from "./Lujain/login-user/login-user.component";
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { SubscribtionComponent } from "./Lujain/services29/subscribtion/subscrib
     SubServicesComponent,
     DetailsComponent,
     LectureComponent,
-    SubscribtionComponent
+    SubscribtionComponent,
+    RegestrationUserComponent,
+    LoginUserComponent
   ],
   imports: [
 
@@ -51,7 +55,13 @@ import { SubscribtionComponent } from "./Lujain/services29/subscribtion/subscrib
       ,  
       {
         path: 'Subscribtion', component: SubscribtionComponent
-  }
+      },
+      {
+        path: 'registration', component: RegestrationUserComponent
+      },
+      {
+        path: 'login', component: LoginUserComponent
+      }
     ])
   ],
 providers: [],

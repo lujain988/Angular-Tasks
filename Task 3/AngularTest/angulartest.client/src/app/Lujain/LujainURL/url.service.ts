@@ -30,4 +30,14 @@ import { Observable } from 'rxjs';
   postSubscriotionData(data: any): Observable<any> {
     return this.http.post<any>(`${this.staticData}/Subscribtion/addSubscriptionUser`, data)
   }
+
+  postRegistrationData(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Users`, data)
+  }
+
+  postLoginData(data: any): Observable<any> {
+    debugger
+    return this.http.post<any>(`${this.staticData}/Users/Login`, data)
+  }
+
 }

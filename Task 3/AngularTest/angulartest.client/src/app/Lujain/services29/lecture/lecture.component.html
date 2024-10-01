@@ -4,5 +4,12 @@
 <button (click)="onChange()">Change</button>
 
 <input type="number"  [value]="num" [(ngModel)]="num"/>
+<div [ngSwitch]="color">
 
+  <p *ngSwitchCase="'red'">Color is red</p>
+  <p *ngSwitchCase="'pink'">Color is pink</p>
+  <p *ngSwitchCase="'black'"> Color is black</p>
+</div>
+
+<p *ngIf="display == true">Hello world</p>
 {{name}}

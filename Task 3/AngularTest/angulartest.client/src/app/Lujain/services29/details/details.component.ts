@@ -21,12 +21,12 @@ export class DetailsComponent {
 
   }
   saveToLocalStorage() {
-    if (this.subSetvicesDataa && this.subSetvicesDataa.id) {
+   /* if (this.subSetvicesDataa && this.subSetvicesDataa.id) {*/
       localStorage.setItem('subServiceId', this.subSetvicesDataa.id.toString());
       console.log("Saved subServiceId:", this.subSetvicesDataa.id);
-    } else {
-      console.error("subServiceId is not available.");
-    }
+    //} else {
+    //  console.error("subServiceId is not available.");
+    //}
   }
   getSubServiceDetails(id: any) {
     this._ser.getSubServiceDetails(id).subscribe((data: any) => { 
