@@ -12,12 +12,16 @@ export class AddServiceComponent {
   ngOnInit() {
   }
 
-    addServices(data:any){
-
+  addServices(data: any) {
+    debugger;
       var form = new FormData();
-      for (let key in data) {
-        form.append(key, data[key])
-        form.append("ServiceImage",this.image)
+    for (let key in data) {
+      form.append(key, data[key])
+
+    }
+    form.append("ServiceImage", this.image)
+
+    
 
         this._ser.addService(form).subscribe(() => {
           alert("Service Added Succesfully")
@@ -29,13 +33,13 @@ export class AddServiceComponent {
       }
 
    
-
-  }
   image: any
-    
+
   changeImage(event: any) {
 
-    this.image=event.target.files[0]
+    this.image = event.target.files[0]
   }
   }
+ 
+  
 
