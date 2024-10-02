@@ -25,7 +25,7 @@ export class LoginUserComponent {
 
       alert("Login Succesfully")
 
-      this._router.navigate(['']);
+      this._router.navigate(['/dashboard']);
 
     },
       (error) => {

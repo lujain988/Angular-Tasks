@@ -7,32 +7,128 @@
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\dtos\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\dtos\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\dtos\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\dtos\\addservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\add-service\\add-service.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujainurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujainurl\\url.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\dashboard\\dashboard.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\appmodule.3.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\appmodule.3.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\appmodule.2.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\appmodule.2.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\appmodule.1.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\appmodule.1.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\appmodule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\appmodule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\dashboard\\dashboard.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\lujains-admin\\lujains-admin.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\dtos\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\dtos\\usersubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\subscribtion\\subscribtion.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -59,28 +155,12 @@
       "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\login-user\\login-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\appmodule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\appmodule.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\models\\usersubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\regestration-user\\regestration-user.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\controllers\\subservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,14 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\controllers\\subscribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\controllers\\subscribtioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\details\\details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -155,18 +227,6 @@
       "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\nav-bar29\\nav-bar29.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -179,15 +239,7 @@
       "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13174D99-6DA3-45F4-A8EC-1E935CECE55F}|AngularTest.Server\\AngularTest.Server.csproj|solutionrelative:angulartest.server\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|solutionrelative:angulartest.client\\src\\app\\lujain\\services29\\lecture\\lecture.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95852FDA-352A-41B9-B80D-DFDA8F5489F4}|angulartest.client\\angulartest.client.esproj|c:\\users\\orange\\desktop\\angular-tasks\\task 3\\angulartest\\angulartest.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -245,7 +297,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Bookmark",
@@ -260,25 +312,190 @@
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add-service.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.css",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.css",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T10:15:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lujains-admin.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.ts",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.ts",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:53:56.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "add-service.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.ts",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.ts",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.ts",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAABgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:50:02.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "add-service.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.html",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.html",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\add-service\\add-service.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T09:45:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dashboard.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.css",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.css",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T09:21:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dashboard.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.html",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.html",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\dashboard\\dashboard.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T09:19:29.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "lujains-admin.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.css",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.css",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T09:19:27.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lujains-admin.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.html",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.html",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\lujains-admin\\lujains-admin.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T09:16:26.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppModule.3.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.3.ts",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\AppModule.3.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.3.ts",
+              "RelativeToolTip": "angulartest.client\\src\\app\\AppModule.3.ts",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:16:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppModule.2.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.2.ts",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\AppModule.2.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.2.ts",
+              "RelativeToolTip": "angulartest.client\\src\\app\\AppModule.2.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:15:51.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppModule.1.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.1.ts",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\AppModule.1.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.1.ts",
+              "RelativeToolTip": "angulartest.client\\src\\app\\AppModule.1.ts",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-02T09:10:25.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "addServiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\DTOs\\addServiceDTO.cs",
+              "RelativeDocumentMoniker": "AngularTest.Server\\DTOs\\addServiceDTO.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\DTOs\\addServiceDTO.cs",
+              "RelativeToolTip": "AngularTest.Server\\DTOs\\addServiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:46:56.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "lecture.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.css",
+              "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.css",
+              "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-02T08:32:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "login-user.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.ts",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAAAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB0AAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-10-01T10:23:26.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 36,
               "Title": "login-user.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.spec.ts",
@@ -286,12 +503,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T10:23:24.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:23:24.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 37,
               "Title": "login-user.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.css",
@@ -299,12 +515,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-01T10:21:37.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:21:37.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 30,
               "Title": "login-user.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.html",
@@ -312,12 +527,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\login-user\\login-user.component.html",
               "ViewState": "AQIAACsAAAAAAAAAAAAiwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-01T10:21:33.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:21:33.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 31,
               "Title": "LoginUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\DTOs\\LoginUserDTO.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\DTOs\\LoginUserDTO.cs",
@@ -325,12 +539,11 @@
               "RelativeToolTip": "AngularTest.Server\\DTOs\\LoginUserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T10:15:30.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T10:15:30.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 35,
               "Title": "regestration-user.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.spec.ts",
@@ -338,12 +551,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-10-01T09:58:21.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:58:21.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
               "Title": "regestration-user.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.css",
@@ -356,33 +568,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "regestration-user.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.ts",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBsAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-10-01T09:26:03.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "regestration-user.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.html",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\regestration-user\\regestration-user.component.html",
-              "ViewState": "AQIAADEAAAAAAAAAAAAiwEgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-10-01T09:17:52.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 39,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\User.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\User.cs",
@@ -390,12 +602,11 @@
               "RelativeToolTip": "AngularTest.Server\\Models\\User.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:09:16.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:09:16.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 33,
               "Title": "addUserDTo.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\DTOs\\addUserDTo.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\DTOs\\addUserDTo.cs",
@@ -403,8 +614,7 @@
               "RelativeToolTip": "AngularTest.Server\\DTOs\\addUserDTo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T09:07:33.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-01T09:07:33.015Z"
             },
             {
               "$type": "Document",
@@ -414,14 +624,14 @@
               "RelativeDocumentMoniker": "AngularTest.Server\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Controllers\\UsersController.cs",
               "RelativeToolTip": "AngularTest.Server\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAuwDQAAAAFAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwEsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T09:01:34.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 38,
               "Title": "UserSubscription.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\UserSubscription.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\UserSubscription.cs",
@@ -429,12 +639,11 @@
               "RelativeToolTip": "AngularTest.Server\\Models\\UserSubscription.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:13:04.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:13:04.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 51,
               "Title": "Subscription.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\Subscription.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\Subscription.cs",
@@ -442,12 +651,11 @@
               "RelativeToolTip": "AngularTest.Server\\Models\\Subscription.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:12:56.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:12:56.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 29,
               "Title": "usersubscriptionDTO.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\DTOs\\usersubscriptionDTO.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\DTOs\\usersubscriptionDTO.cs",
@@ -455,12 +663,11 @@
               "RelativeToolTip": "AngularTest.Server\\DTOs\\usersubscriptionDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T10:09:52.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:09:52.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 53,
               "Title": "subscribtion.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.spec.ts",
@@ -468,12 +675,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T09:11:36.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T09:11:36.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 54,
               "Title": "subscribtion.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.css",
@@ -481,12 +687,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-30T09:09:28.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T09:09:28.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 34,
               "Title": "subscribtion.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.ts",
@@ -494,12 +699,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.ts",
               "ViewState": "AQIAABwAAAAAAAAAAAAgwCIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-30T09:01:41.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T09:01:41.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 32,
               "Title": "subscribtion.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.html",
@@ -507,12 +711,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\subscribtion\\subscribtion.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T08:58:58.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:58:58.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 41,
               "Title": "SubscribtionController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Controllers\\SubscribtionController.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Controllers\\SubscribtionController.cs",
@@ -520,12 +723,11 @@
               "RelativeToolTip": "AngularTest.Server\\Controllers\\SubscribtionController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:56:14.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:56:14.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 50,
               "Title": "SubService.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\SubService.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\SubService.cs",
@@ -533,25 +735,24 @@
               "RelativeToolTip": "AngularTest.Server\\Models\\SubService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:53:49.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:53:49.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 23,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\Service.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\Service.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\Service.cs",
               "RelativeToolTip": "AngularTest.Server\\Models\\Service.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T08:53:48.751Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 40,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Models\\MyDbContext.cs",
@@ -559,64 +760,63 @@
               "RelativeToolTip": "AngularTest.Server\\Models\\MyDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T08:53:39.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T08:53:39.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AppModule.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\AppModule.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\AppModule.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\AppModule.ts",
-              "ViewState": "AQIAACEAAAAAAAAAAAAcwD4AAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-09-30T08:38:07.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 27,
               "Title": "lecture.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.spec.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.spec.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.spec.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-09-30T08:20:37.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "lecture.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-09-30T08:11:50.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "lecture.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.html",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\lecture\\lecture.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-30T08:11:02.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 44,
               "Title": "details.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.spec.ts",
@@ -624,12 +824,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T14:39:50.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:39:50.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 43,
               "Title": "details.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.html",
@@ -637,12 +836,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T14:35:43.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:35:43.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "details.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.ts",
@@ -650,12 +848,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\details\\details.component.ts",
               "ViewState": "AQIAAA0AAAAAAAAAAAA1wBkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T14:33:10.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:33:10.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 59,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -663,12 +860,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAIoUAAAAAAAAAAAswJUUAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-09-29T13:17:54.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T13:17:54.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 55,
               "Title": "app.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app.component.css",
@@ -676,12 +872,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\app.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T12:29:49.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T12:29:49.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 64,
               "Title": "sub-services.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.css",
@@ -689,12 +884,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T10:40:58.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T10:40:58.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 45,
               "Title": "sub-services.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.html",
@@ -702,12 +896,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T10:40:49.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T10:40:49.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 47,
               "Title": "sub-services.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.spec.ts",
@@ -715,12 +908,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T10:39:49.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T10:39:49.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 46,
               "Title": "sub-services.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.ts",
@@ -728,25 +920,24 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\sub-services\\sub-services.component.ts",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwBoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T10:34:01.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T10:34:01.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "url.service.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.ts",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.ts",
-              "ViewState": "AQIAABoAAAAAAAAAAAAIwCYAAAAEAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-09-29T09:41:43.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 52,
               "Title": "url.service.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.spec.ts",
@@ -754,12 +945,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\LujainURL\\url.service.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T09:41:42.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:41:42.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 9,
               "Title": "SubServiceController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Controllers\\SubServiceController.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Controllers\\SubServiceController.cs",
@@ -772,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 56,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Controllers\\ServiceController.cs",
@@ -780,12 +970,11 @@
               "RelativeToolTip": "AngularTest.Server\\Controllers\\ServiceController.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:05:35.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:05:35.32Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 58,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\Program.cs",
               "RelativeDocumentMoniker": "AngularTest.Server\\Program.cs",
@@ -793,12 +982,11 @@
               "RelativeToolTip": "AngularTest.Server\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T09:04:23.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:04:23.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 57,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\AngularTest.Server\\appsettings.json",
               "RelativeDocumentMoniker": "AngularTest.Server\\appsettings.json",
@@ -806,12 +994,11 @@
               "RelativeToolTip": "AngularTest.Server\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-29T09:04:08.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T09:04:08.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 66,
               "Title": "footer.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\footer\\footer.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.ts",
@@ -819,12 +1006,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:46:52.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:46:52.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 67,
               "Title": "footer.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\footer\\footer.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.spec.ts",
@@ -832,12 +1018,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:46:48.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:46:48.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 68,
               "Title": "footer.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\footer\\footer.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.html",
@@ -845,25 +1030,24 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\footer\\footer.component.html",
               "ViewState": "AQIAAEwAAAAAAAAAAAAcwHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T08:46:44.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:46:44.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "nav-bar29.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.html",
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-29T08:43:03.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 69,
               "Title": "nav-bar29.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.css",
@@ -871,12 +1055,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T08:43:02.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:43:02.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 49,
               "Title": "services29.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\services29.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.html",
@@ -884,12 +1067,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T08:41:25.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:41:25.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 65,
               "Title": "home.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\home\\home.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\home\\home.component.html",
@@ -897,12 +1079,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\home\\home.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T08:41:01.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:41:01.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "app.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app.component.spec.ts",
@@ -910,12 +1091,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\app.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:39:02.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:39:02.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 60,
               "Title": "app.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app.component.ts",
@@ -923,12 +1103,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\app.component.ts",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:38:58.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:38:58.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 61,
               "Title": "services29.component.spec.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\services29.component.spec.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.spec.ts",
@@ -936,12 +1115,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.spec.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:36:27.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:36:27.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 71,
               "Title": "services29.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\services29.component.css",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.css",
@@ -949,12 +1127,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-29T08:36:25.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:36:25.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 48,
               "Title": "services29.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\services29\\services29.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.ts",
@@ -962,25 +1139,24 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\Lujain\\services29\\services29.component.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:33:10.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:33:10.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 20,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.component.html",
               "RelativeToolTip": "angulartest.client\\src\\app\\app.component.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-09-29T08:31:40.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 11,
               "Title": "nav-bar29.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\Lujain\\nav-bar29\\nav-bar29.component.ts",
@@ -993,7 +1169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app-routing.module.ts",
@@ -1001,12 +1177,11 @@
               "RelativeToolTip": "angulartest.client\\src\\app\\app-routing.module.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-29T08:18:30.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:18:30.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 17,
               "Title": "app.module.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "angulartest.client\\src\\app\\app.module.ts",
@@ -1019,7 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 70,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Tasks\\Task 3\\AngularTest\\angulartest.client\\src\\index.html",
               "RelativeDocumentMoniker": "angulartest.client\\src\\index.html",
@@ -1027,8 +1202,7 @@
               "RelativeToolTip": "angulartest.client\\src\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-29T08:17:02.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T08:17:02.96Z"
             }
           ]
         }

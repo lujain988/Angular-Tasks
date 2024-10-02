@@ -3,7 +3,7 @@
 
 <button (click)="onChange()">Change</button>
 
-<input type="number"  [value]="num" [(ngModel)]="num"/>
+<input type="number" [value]="num" [(ngModel)]="num" />
 <div [ngSwitch]="color">
 
   <p *ngSwitchCase="'red'">Color is red</p>
@@ -13,3 +13,18 @@
 
 <p *ngIf="display == true">Hello world</p>
 {{name}}
+
+<h1 [ngStyle]='{"background-color" : userObj.color}'>{{userObj.name}}</h1>
+
+<hr />
+<h2 [ngStyle]='{"color": "red"}'>Orange coding academy</h2>
+
+
+<div *ngFor="let item of userArray" [ngClass]="{'greenColor' : item.grade > 15 , 'redColor' : item.grade <=15}">
+
+
+  <p>{{item.name}}</p>
+  <p>{{item.grade}}</p>
+  <p>{{item.color}}</p>
+
+</div>

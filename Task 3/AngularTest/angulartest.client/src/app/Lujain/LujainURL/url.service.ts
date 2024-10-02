@@ -40,4 +40,8 @@ import { Observable } from 'rxjs';
     return this.http.post<any>(`${this.staticData}/Users/Login`, data)
   }
 
+  addService(data: any): Observable<any> {
+    return this.http.post<any>(`${this.staticData}/Users/addService`, data)
+  }
+
 }

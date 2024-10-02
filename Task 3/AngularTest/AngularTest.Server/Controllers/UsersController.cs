@@ -2,6 +2,7 @@
 using AngularTest.Server.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.IO;
 
 namespace AngularTest.Server.Controllers
 {
@@ -48,6 +49,43 @@ namespace AngularTest.Server.Controllers
                 return Ok(users);
             }
             return BadRequest("You dont have account please register");
+
+        }
+
+        [HttpPost("addService")]
+        public IActionResult addService([FromForm] addServiceDTO serviceDTO )
+        {
+            var folder = Path.Combine(Directory.GetCurrentDirectory(), "UploadsImages");
+            if (!Directory.Exists(folder))
+            {
+                Directory.CreateDirectory(folder);
+            }
+
+            var fileImage = Path.Combine(folder, serviceDTO.ServiceImage.FileName);
+
+            if (_db.Services.Any(s => s.ServiceName == serviceDTO.ServiceName))
+            {
+                return Conflict("A service with the same name already exists.");
+            }
+
+            using (var stream = new FileStream(fileImage, FileMode.Create))
+            {
+                 serviceDTO.ServiceImage.CopyToAsync(stream); 
+            }
+
+            var newService = new Service
+            {
+                ServiceName = serviceDTO.ServiceName,
+                ServiceDescription = serviceDTO.ServiceDescription,
+                ServiceImage = serviceDTO.ServiceImage.FileName,
+            };
+
+            _db.Services.Add(newService);
+             _db.SaveChangesAsync(); 
+            return Ok(newService);
+
+
+
 
         }
     }
