@@ -13,7 +13,6 @@ export class AddServiceComponent {
   }
 
   addServices(data: any) {
-    debugger;
       var form = new FormData();
     for (let key in data) {
       form.append(key, data[key])

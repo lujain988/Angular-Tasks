@@ -44,4 +44,13 @@ import { Observable } from 'rxjs';
     return this.http.post<any>(`${this.staticData}/Users/addService`, data)
   }
 
-}
+
+  editService(id: any, data: any): Observable<any> {
+    return this.http.put<any>(`${this.staticData}/Service/${id}`, data); 
+  }
+  getServiceById(id: any): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Service/${id}`);
+  }
+
+  }
+
