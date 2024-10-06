@@ -1,10 +1,15 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
+import { BehaviorSubject, Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root'
 }) export class UrlService {
+
+
+  email: BehaviorSubject<string> = new BehaviorSubject<string>('');
+  emailaddress = this.email.asObservable();
+
   staticData = "https://localhost:7103/api";
   url = `${this.staticData}/Service`;
 

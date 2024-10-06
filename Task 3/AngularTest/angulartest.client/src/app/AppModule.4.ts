@@ -19,6 +19,7 @@ import { SubServicesComponent } from "./Lujain/services29/sub-services/sub-servi
 import { SubscribtionComponent } from "./Lujain/services29/subscribtion/subscribtion.component";
 import { ServiceAdminComponent } from "./Lujain/lujains-admin/service-admin/service-admin.component";
 import { EditServiceComponent } from "./Lujain/lujains-admin/edit-service/edit-service.component";
+import { ProfileComponent } from "./Lujain/profile/profile.component";
 
 
 
@@ -40,6 +41,7 @@ import { EditServiceComponent } from "./Lujain/lujains-admin/edit-service/edit-s
     DashboardComponent,
     AddServiceComponent,
     ServiceAdminComponent,
+    ProfileComponent,
     EditServiceComponent
   ],
   imports: [
@@ -59,6 +61,9 @@ import { EditServiceComponent } from "./Lujain/lujains-admin/edit-service/edit-s
       },
       {
         path: 'SubDetails/:id', component: DetailsComponent
+      },
+      {
+        path: 'profile', component: ProfileComponent
       },
       {
         path: 'lecture', component: LectureComponent

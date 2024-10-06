@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './lecture.component.css'
 })
 export class LectureComponent {
+  currentDate = new Date();
   display = false;
   color = "red";
   name: string = "Lujain"

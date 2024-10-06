@@ -10,14 +10,16 @@ namespace AngularTest.Server.Controllers
     public class ServiceController : ControllerBase
     {
         private readonly MyDbContext _db;
-        public ServiceController(MyDbContext db) {
+        public ServiceController(MyDbContext db)
+        {
             _db = db;
 
         }
 
 
         [HttpGet]
-        public IActionResult GetService() {
+        public IActionResult GetService()
+        {
             var service = _db.Services.ToList();
             return Ok(service);
         }
@@ -56,11 +58,23 @@ namespace AngularTest.Server.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetService(int id) { 
-        
-        var service = _db.Services.FirstOrDefault(a=>a.Id == id);
+        public IActionResult GetService(int id)
+        {
+
+            var service = _db.Services.FirstOrDefault(a => a.Id == id);
             return Ok(service);
         }
 
+
+        [HttpGet("getImages/{imageName}")]
+        public IActionResult getItem(string imageName)
+        {
+            var pathImage = Path.Combine(Directory.GetCurrentDirectory(), "UploadsImages", imageName);
+            if (System.IO.File.Exists(pathImage))
+            {
+                return PhysicalFile(pathImage, "*/jpeg");
+            }
+            return NotFound();
+        }
     }
 }

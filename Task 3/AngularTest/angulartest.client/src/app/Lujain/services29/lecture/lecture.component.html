@@ -19,7 +19,7 @@
 <hr />
 <h2 [ngStyle]='{"color": "red"}'>Orange coding academy</h2>
 
-
+<h1>{{ currentDate | date: 'fullDate' }} </h1>
 <div *ngFor="let item of userArray" [ngClass]="{'greenColor' : item.grade > 15 , 'redColor' : item.grade <=15}">
 
 
