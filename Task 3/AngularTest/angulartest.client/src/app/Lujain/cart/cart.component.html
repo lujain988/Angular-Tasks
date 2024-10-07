@@ -1,0 +1,34 @@
+<p>cart works!</p>
+<main>
+  <!-- Bootstrap container to center and structure content -->
+  <div class="container mt-4" style="margin-left:260px">
+    <!-- Optional heading for the section -->
+    <h2 class="text-center mb-4">Our Services</h2>
+
+    <!-- Styled Bootstrap table -->
+    <table class="table table-dark table-hover table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">id</th>
+          <th scope="col">service id</th>
+          <th scope="col">quantity</th>
+          <th scope="col">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Angular ngFor directive to iterate over the array -->
+        <tr *ngFor="let item of array; let i = index">
+          <th scope="row">{{item.id}}</th>
+          <td>{{ item.productId }}</td>
+          <td>{{ item.quantity }}</td>
+          <td>
+            <button (click)="decrementQuantity(item.productId)">-</button>
+            <input type="number" [(ngModel)]="item.quantity" />
+            <button (click)="incrementQuantity(item.productId)">+</button>
+          </td>
+          <td><a routerLink="/Dashboard/updateAdminServices/{{item.serviceId}}">Edit</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</main>

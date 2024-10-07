@@ -51,11 +51,52 @@ import { BehaviorSubject, Observable } from 'rxjs';
 
 
   editService(id: any, data: any): Observable<any> {
-    return this.http.put<any>(`${this.staticData}/Service/${id}`, data); 
+    return this.http.put<any>(`${this.staticData}/Service/${id}`, data);
   }
   getServiceById(id: any): Observable<any> {
     return this.http.get<any>(`${this.staticData}/Service/${id}`);
   }
 
+
+  getProduct(): Observable<any> {
+    return this.http.get<any>(`${this.staticData}/Product`)
   }
+
+  cartItem: any = [];
+  cartItemSubject: BehaviorSubject<any> = new BehaviorSubject<any>(this.cartItem);
+  cartItemObser = this.cartItemSubject.asObservable();
+
+  addTocart(data: any) {
+    var record = this.cartItem.find((x: any) => x.productId == data.productId)
+    if (record) {
+      alert("product alrady exist")
+
+    }
+    else {
+
+      this.cartItem.push(data);
+      this.cartItemSubject.next(this.cartItem);
+    }
+  }
+  increaseQuantity(id: any) {
+    debugger;
+    var product = this.cartItem.find((x: any) => x.productId == id);
+    if (product) {
+      product.quantity += 1;
+      this.cartItemSubject.next(this.cartItem);
+    }
+
+
+  }
+  decrementQuantity(id: any) {
+    debugger;
+    var product = this.cartItem.find((x: any) => x.productId == id);
+    if (product) {
+      product.quantity -= 1;
+      this.cartItemSubject.next(this.cartItem);
+    }
+
+  }
+
+}
 

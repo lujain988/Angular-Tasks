@@ -20,6 +20,8 @@ import { SubscribtionComponent } from "./Lujain/services29/subscribtion/subscrib
 import { ServiceAdminComponent } from "./Lujain/lujains-admin/service-admin/service-admin.component";
 import { EditServiceComponent } from "./Lujain/lujains-admin/edit-service/edit-service.component";
 import { ProfileComponent } from "./Lujain/profile/profile.component";
+import { ProductComponent } from "./Lujain/product/product.component";
+import { CartComponent } from "./Lujain/cart/cart.component";
 
 
 
@@ -42,7 +44,9 @@ import { ProfileComponent } from "./Lujain/profile/profile.component";
     AddServiceComponent,
     ServiceAdminComponent,
     ProfileComponent,
-    EditServiceComponent
+    EditServiceComponent,
+    ProductComponent,
+    CartComponent
   ],
   imports: [
     BrowserModule,
@@ -78,6 +82,9 @@ import { ProfileComponent } from "./Lujain/profile/profile.component";
       {
         path: 'login', component: LoginUserComponent
       },
+      {
+        path: 'product', component: ProductComponent
+      },
 
       {
         path: 'dashboard', component: DashboardComponent, children: [
@@ -91,7 +98,10 @@ import { ProfileComponent } from "./Lujain/profile/profile.component";
             path: "editServices/:id", component: EditServiceComponent
           }
         ]
-      }
+      },
+      {
+        path: 'cart', component: CartComponent
+      },
     ])
   ],
   providers: [],
